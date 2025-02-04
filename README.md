@@ -1,6 +1,6 @@
 - 👋 Hi, it's Alex.
 - 👀 I’m interested in Post-Agile.
-- 🌱 I’m currently learning Pickleball.
+- 🌱 My family enjoys board-gaming together.
 
 <!---
 Dolmenwood/Dolmenwood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
